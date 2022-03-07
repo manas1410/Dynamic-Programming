@@ -1,5 +1,6 @@
 '''
 problem url - https://www.geeksforgeeks.org/minimum-number-deletions-make-string-palindrome/
+no of deletion = no of insertion
 '''
 x=input() 
 y=x[::-1] 
